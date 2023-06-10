@@ -28,33 +28,20 @@ My portfolio site is tailored towards potential employers (such as HR personnel,
 - This site will show users how to get in touch with me.
 - Improve my HTML and CSS knowledge.
 
-## User Stories
-🚀 **merit & beyond**
-
-This section lists outs as a X I want Y, so I can Z format. It helps drive out the features you will build.
-
-You can have many kinds of users so feel free to have one section or the subsections listed or more
-
 ### Site User Stories
-🚀 **merit & beyond**
-
-These stories are focused on the users of the site, they can be focused around specfic controls and roles, but you should definitely have things like the following in there too:
-
-Ex)
-- As a customer on the site I want to have navigation that sticks with me as a I scroll so it's easy to go to the parts of the site I'm interested in.
-- As a customer I want to have use an intuitive website so I don't get frustrated when finding information I'm looking for on a website.
+As a user, I want to be able to view information about Jamie such as qualifications obtained/ working towards.
+As a user, I want to be able to view previous/ upcoming/ in-progress projects.
+As a user, I would like to be able to view contact information to get in touch with Jamie.
 
 ### Website Owner Stories
-🚀 **merit & beyond**
-
-These user stories are based on the site owner, they want to earn money or provide information and avoid lawsuits.  So write user stories from that perspective.
-
-Ex)
-- As a site owner, I want to make sure my site meets web accessiblity guidelines around colors and contrast so I can provide a good online experience to all users, even those with visual impairments.
-- As a site owner, I want a fully responsive website so I can provide information about my company to people no matter what device they use to visit my site.
+As an owner, I want to have a compatible, responsive website.
+As an owner, I want my website to be eye-catching, modern and attractive for people to see.
+As an owner, I want to use semantic HTML and responsive CSS for all devices (desktop, tablets, phone and etc...)
 
 ### Developer Stories
 As a developer, I want to create an outstanding website for potential employers/ customers to see.
+As a developer, I want to be able to view history information for the project.
+As a developer, I want to see a clear plan and scope to go back to so I can edit it later down the line.
 
 
 ## Design Choices Stories
@@ -119,26 +106,30 @@ Wireframes can be as simple as a picture of a drawing of how you envisioned layi
 🚀 **merit & beyond**
 
 # Features
-🚨**Required** 
+The project will have 3 pages: 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
+Home - This page will contain information about me (Jamie) and allow users to download my CV. 
+Projects - This page will show previous projects worked on, upcoming planned projects and current projects being worked on.
+Contact - This page will contain information on how to contact me if needed.
 
-## Implemented Features
-🚨**Required** 
+## Implemented Features :
+Home: 
+Header - This will contain the site title and nav links. 
+Body - A photo of me, information about me, and a button to download my CV.
+Footer - This will contain my social media links and some basic copyright information
 
-It's easiest to break this section down into the header, footer, and each page/layer/signification section of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
+Projects: 
+Header - This will contain the site title and nav links. 
+Body - 3 sections: previous, upcoming, and current projects.
+Footer - This will contain my social media links and some basic copyright information
 
-Don't forget your 404 error page.
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Contact: 
+Header - This will contain the site title and nav links. 
+Body - My information such as email and number and some information on what I can help with.
+Footer - This will contain my social media links and some basic copyright information
 
 ## Future Features
-🚀 **merit & beyond**
-
-Use this section to discuss plans for additional features to be implemented in the future
-
-If you end up not developing some features you hoped to implement, you can include those in this section too.
-
+As for future plans, I would like to impliment a contact form and a newletter form so people can follow my progress and get updated about what I am able to help with.
 
 # Testing
 🚨**Required** 
