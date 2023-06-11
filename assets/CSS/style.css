@@ -2,3 +2,32 @@
     margin: 0;
     padding: 0;
 }
+
+/* * Section for nav links */
+
+#navlinks {
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
+
+#navlinks h1 {
+    color: white;
+    position: absolute;
+    padding: 15px 30px 20px;
+}
+
+#navlinks ul {
+    margin-right: 150px;
+    text-align: right;
+}
+
+#navlinks li {
+    display: inline-block;
+    padding: 25px;
+}
+
+#navlinks a {
+    text-decoration: none;
+    color: white;
+}
