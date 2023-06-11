@@ -11,9 +11,7 @@ This project is going to be a site dedicated to my portfolio and development, wh
 Jamie Gargrave
 
 ## Live Site
-🚨**Required** 
-
-Live site link (GitHub Pages): NEEDS ADDING
+Live site link (GitHub Pages): https://jamie-gargrave.github.io/Portfolio/
 
 ## Repository
 Github Repository: https://github.com/Jamie-Gargrave/Portfolio
