@@ -1,6 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&family=Open+Sans:wght@300;400&display=swap');
+
 * {
     margin: 0;
     padding: 0;
+}
+
+/* * Font Styles */
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
 }
 
 /* * Section for nav links */
@@ -14,7 +38,7 @@
 #navlinks h1 {
     color: white;
     position: absolute;
-    padding: 15px 150px 20px;
+    padding: 10px 150px 20px;
 }
 
 #navlinks ul {
@@ -40,16 +64,12 @@
     padding: 5px;
 }
 
-.active-page {
-    border-bottom: 1px solid white;
-}
-
 /* * Section for about me */
 
 #about-me {
     height: 500px;
     width: 100%;
-    background-color: slategray;
+    background-color: whitesmoke;
 }
 
 #info-about-me {
@@ -60,11 +80,12 @@
 
 #container {
     border-radius: 50%;
-    border-color: white;
+    border-color: black;
     border-style: solid;
     border-width: 1px;
     width: 300px;
     height: 300px;
+    padding: 10px;
 }
 
 #jg-photo {
@@ -75,4 +96,14 @@
     height: 300px;
     width: 300px;
     border-radius: 50%;
+}
+
+/* * Site classes */
+
+.active-page {
+    border-bottom: 1px solid white;
+}
+
+.uppercase {
+    text-transform: uppercase;
 }
