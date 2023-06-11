@@ -123,9 +123,9 @@ li {
 /* *Section for further about */
 
 #further-about {
-    height: 500px;
+    height: 400px;
     width: 100%;
-    padding-top: 25px;
+    padding: 25px 0 25px;
     display: flex;
 }
 
@@ -133,7 +133,7 @@ li {
     height: 400px;
     width: 50%;
     margin: 0 25px 0;
-    padding: 10px 25px 0;
+    padding: 0 25px 0;
     border: 1px solid black;
     border-radius: 10px;
     display: inline-block;
@@ -142,6 +142,36 @@ li {
 
 #further-about ul {
     padding-top: 15px;
+}
+
+/* * Footer links */
+
+#footlinks {
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+
+#footlinks ul {
+    margin: 0 44% 0;
+}
+
+#footlinks li {
+    display: inline-block;
+    padding: 20px 50px 5px;
+}
+
+#footlinks a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.4em;
+}
+
+#footlinks p {
+    color: white;
+    font-size: 0.8em;
+    margin: 0 46% 0;
+    padding-bottom: 10px;
 }
 
 /* * Site classes */
