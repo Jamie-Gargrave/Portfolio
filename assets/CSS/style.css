@@ -105,6 +105,14 @@ li {
     border-radius: 50%;
 }
 
+#download-cv {
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: black;
+    border-width: 1px;
+}
+
 /* * Site classes */
 
 .active-page {
