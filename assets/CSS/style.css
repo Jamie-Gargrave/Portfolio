@@ -43,3 +43,36 @@
 .active-page {
     border-bottom: 1px solid white;
 }
+
+/* * Section for about me */
+
+#about-me {
+    height: 500px;
+    width: 100%;
+    background-color: slategray;
+}
+
+#info-about-me {
+    width: 300px;
+    height: 300px;
+    padding: 80px 600px 80px;
+}
+
+#container {
+    border-radius: 50%;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    width: 300px;
+    height: 300px;
+}
+
+#jg-photo {
+    background-image: url(../img/Jamie.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
