@@ -14,7 +14,7 @@
 #navlinks h1 {
     color: white;
     position: absolute;
-    padding: 15px 30px 20px;
+    padding: 15px 150px 20px;
 }
 
 #navlinks ul {
@@ -24,10 +24,22 @@
 
 #navlinks li {
     display: inline-block;
-    padding: 25px;
+    padding: 25px 30px 25px;
 }
 
 #navlinks a {
     text-decoration: none;
     color: white;
+    padding: 5px;
+}
+
+#navlinks a:hover {
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.active-page {
+    border-bottom: 1px solid white;
 }
