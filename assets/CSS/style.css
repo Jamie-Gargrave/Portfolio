@@ -113,6 +113,25 @@ li {
     border-width: 1px;
 }
 
+#further-about {
+    height: 500px;
+    width: 100%;
+    padding-top: 25px;
+    display: flex;
+}
+
+#further-about > div {
+    height: 400px;
+    width: 50%;
+    margin: 0 25px 0;
+    padding: 10px 25px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    justify-content: space-between;
+
+}
+
 /* * Site classes */
 
 .active-page {
@@ -126,3 +145,4 @@ li {
 .decoration > li {
     list-style-type: none;
 }
+
