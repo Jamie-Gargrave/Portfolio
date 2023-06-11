@@ -19,6 +19,13 @@ h2 {
     font-size: 1.2em;
 }
 
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    font-style: italic;
+}
+
 p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
@@ -113,6 +120,8 @@ li {
     border-width: 1px;
 }
 
+/* *Section for further about */
+
 #further-about {
     height: 500px;
     width: 100%;
@@ -129,7 +138,10 @@ li {
     border-radius: 10px;
     display: inline-block;
     justify-content: space-between;
+}
 
+#further-about ul {
+    padding-top: 15px;
 }
 
 /* * Site classes */
