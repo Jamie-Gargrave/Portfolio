@@ -77,7 +77,7 @@ li {
 /* * Section for demographics */
 
 #about-me {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background-color: whitesmoke;
 }
@@ -89,7 +89,7 @@ li {
 #info-about-me {
     width: 300px;
     height: 300px;
-    padding: 80px 50px 30px 600px;
+    padding: 125px 50px 30px 600px;
 }
 
 #container {
