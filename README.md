@@ -11,10 +11,10 @@ This project is going to be a site dedicated to my portfolio and development, wh
 Jamie Gargrave
 
 ## Live Site
-Live site link (GitHub Pages): https://jamie-gargrave.github.io/Portfolio/
+[Live site link (GitHub Pages)] (https://jamie-gargrave.github.io/Portfolio/)
 
 ## Repository
-Github Repository: https://github.com/Jamie-Gargrave/Portfolio
+[Github Repository] (https://github.com/Jamie-Gargrave/Portfolio)
 
 ## Target Audience
 My portfolio site is tailored towards potential employers (such as HR personnel, Hiring Managers, and etc...) as well as potential customer to view my work, previous work and what I am capable of doing.
@@ -43,11 +43,7 @@ As a developer, I want to see a clear plan and scope to go back to so I can edit
 
 
 ## Design Choices Stories
-🚀 **merit & beyond**
-
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
-
-You may want to re-watch the videos about the **5 planes of UX development** when writing up this section
+I chose to go with an eye catching, but basic colour scheme of black and white so my project looks modern, clean and professional.
 
 ### Colors
 🚀 **merit & beyond**
@@ -66,26 +62,14 @@ You may want to re-watch the videos about the **5 planes of UX development** whe
 - include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
 
 ### Imagery
-🚀 **merit & beyond**
-
-Explain why you used certain icons and images on your site & tie it back into your target audience
+I decided to use a photo of myself so the site looks professional and employers/ customers can out a face to my name.
 
 ### Animations and Transitions
-🚀 **merit & beyond**
-
-- discuss any special animations or transitions you've included 
-- special hover state effects
+I wanted to add hover effects and effects that show the user what page they are on. It was easy to do, and adds style to the site as a whole. It allowed me to show of some of my other skills using CSS.
 
 ## Site Structure
-🚀 **merit & beyond**
+I decided to make a 3 page site. It allows me to show of my skills and other bits of information for people to see. All pages can be accessed via the nav links.
 
-Talk about if the site is 1 page vs multiple pages. Say what loads by default & how to get access to other pages/sections.
-
-## Design Elements
-🚀 **merit & beyond**
-
-what are some of they key User Interactive elements and bits of functionally you will have on your site:
-tables, accordions, maps, videos, forms with inputs, text areas, select/dropdowns
 
 ## Wireframes
 🚀 **merit & beyond**
