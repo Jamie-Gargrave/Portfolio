@@ -158,7 +158,7 @@ li {
     width: 100%;
 }
 
- #footlinks ul {
+#footlinks ul {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -182,6 +182,37 @@ li {
     font-size: 0.8em;
 }
 
+/* * Current Projects */
+
+#cprojects {
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#cprojects > div {
+    display: inline-block;
+    height: 400px;
+    width: 20%;
+    text-align: center;
+    margin: 0 10px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#cprojects h3 {
+    padding-top: 4%;
+}
+
+#cprojects img {
+    height: 150px;
+    width: auto;
+    padding: 4% 20% 6%;
+}
+
 /* * Site classes */
 
 .active-page {
@@ -196,3 +227,16 @@ li {
     list-style-type: none;
 }
 
+.center {
+    background-color: whitesmoke;
+    text-align: center;
+    font-weight: 600;
+    padding: 15px;
+}
+
+.inline p {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
