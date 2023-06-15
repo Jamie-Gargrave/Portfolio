@@ -89,8 +89,8 @@ li {
 }
 
 #info-about-me {
-    width: 300px;
-    height: 300px;
+    width: auto;
+    height: auto;
     padding: 125px 50px 30px 600px;
 }
 
