@@ -197,12 +197,13 @@ li {
 #banner > div {
     position: absolute;
     top: 35%;
-    left: 9%;
+    bottom: 35%;
+    left: 8%;
+    right: 8%;
     text-align: center;
-    height: 70px;
+    height: auto;
     width: auto;
     border: 1px solid rgba(245, 245, 245,0.5);
-    padding: 5px 5px;
     border-radius: 10px;
     background-color: rgba(245, 245, 245,0.5);
 }
@@ -210,13 +211,14 @@ li {
 #banner h2 {
     color: black;
     font-size: 1.6em;
-    padding-bottom: 5px;
+    padding: 8px;
     font-weight: 500;
 }
 
 #banner p {
     color: black;
     font-size: 1em;
+    padding: 0 8px;
     font-weight: 500;
 }
 
@@ -228,7 +230,7 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding-bottom: 25px;
 }
 
 #cprojects > div {
