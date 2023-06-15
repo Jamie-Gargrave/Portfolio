@@ -195,7 +195,7 @@ li {
 
 #cprojects > div {
     display: inline-block;
-    height: 400px;
+    height: auto;
     width: 20%;
     text-align: center;
     margin: 0 10px 0;
@@ -210,7 +210,8 @@ li {
 #cprojects img {
     height: 150px;
     width: auto;
-    padding: 4% 20% 6%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* * Site classes */
@@ -221,6 +222,12 @@ li {
 
 .uppercase {
     text-transform: uppercase;
+}
+
+.underline {
+    border-bottom: 1px solid black;
+    padding: 5px;
+    margin: 0 30px 0;
 }
 
 .decoration > li {
@@ -234,9 +241,31 @@ li {
     padding: 15px;
 }
 
-.inline p {
+.inline li {
     display: inline-block;
-    border: 1px solid black;
-    border-radius: 10px;
     padding: 5px;
+    margin: 0 10px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.project-info ul {
+    margin: 0 10px 0;
+    text-align: left;
+}
+
+.project-info li {
+    list-style-type: none;
+    padding: 2px 0;
+}
+
+.project-info h3 {
+    padding-bottom: 2px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.project-info a {
+    text-decoration: none;
+    color: black;
 }
