@@ -194,20 +194,30 @@ li {
     position: relative;
 }
 
-#banner div {
+#banner > div {
+    position: absolute;
+    top: 35%;
+    left: 9%;
     text-align: center;
+    height: 70px;
+    width: auto;
+    border: 1px solid rgba(245, 245, 245,0.5);
+    padding: 5px 5px;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 245,0.5);
 }
 
 #banner h2 {
-    color: whitesmoke;
+    color: black;
     font-size: 1.6em;
-    padding-top: 8%;
     padding-bottom: 5px;
+    font-weight: 500;
 }
 
 #banner p {
-    color: whitesmoke;
+    color: black;
     font-size: 1em;
+    font-weight: 500;
 }
 
 /* * Current Projects */
