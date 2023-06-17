@@ -82,16 +82,24 @@ li {
     height: 600px;
     width: 100%;
     background-color: whitesmoke;
-}
-
-#about-me > div {
-    display: inline-block;
+    display: flex;
 }
 
 #info-about-me {
-    width: auto;
+    width: 40%;
     height: auto;
-    padding: 125px 50px 30px 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ab-demo {
+    margin-left: 20px;
+}
+
+#info-about-me > div {
+    display: inline-block;
 }
 
 #container {
@@ -125,14 +133,14 @@ li {
 /* * Section for further about */
 
 #further-about {
-    height: 400px;
+    height: auto;
     width: 100%;
     padding: 25px 0 25px;
     display: flex;
 }
 
 #further-about > div {
-    height: 400px;
+    height: auto;
     width: 50%;
     margin: 0 25px 0;
     padding: 0 25px 0;
@@ -144,6 +152,7 @@ li {
 
 #further-about ul {
     padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #further-about h2 {
