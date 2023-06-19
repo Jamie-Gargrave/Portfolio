@@ -152,7 +152,6 @@ li {
 
 #further-about ul {
     padding-top: 15px;
-    padding-bottom: 15px;
 }
 
 #further-about h2 {
@@ -263,8 +262,36 @@ li {
     padding-bottom: 10px;
 }
 
-#cprojects ul {
-    padding-bottom: 15px;
+/* * Upcoming Projects */
+
+#uprojects {
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+#uprojects > div {
+    display: inline-block;
+    height: auto;
+    width: 20%;
+    text-align: center;
+    margin: 0 10px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#uprojects h3 {
+    padding-top: 4%;
+}
+
+#uprojects img {
+    height: 150px;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* * Site classes */
