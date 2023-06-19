@@ -263,6 +263,10 @@ li {
     padding-bottom: 10px;
 }
 
+#cprojects ul {
+    padding-bottom: 15px;
+}
+
 /* * Site classes */
 
 .active-page {
