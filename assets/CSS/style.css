@@ -262,6 +262,10 @@ li {
     padding-bottom: 10px;
 }
 
+#cprojects ul {
+    padding-bottom: 10px;
+}
+
 /* * Upcoming Projects */
 
 #uprojects {
@@ -291,6 +295,10 @@ li {
     height: 150px;
     width: auto;
     padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#uprojects ul {
     padding-bottom: 10px;
 }
 
