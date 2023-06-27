@@ -266,6 +266,11 @@ li {
     padding-bottom: 10px;
 }
 
+#cprojects a:hover {
+    background-color: grey;
+    color: white;
+}
+
 /* * Upcoming Projects */
 
 #uprojects {
@@ -302,6 +307,11 @@ li {
     padding-bottom: 10px;
 }
 
+#uprojects a:hover {
+    background-color: grey;
+    color: white;
+}
+
 /* * Previous Projects */
 
 #pprojects {
@@ -336,6 +346,11 @@ li {
 
 #pprojects ul {
     padding-bottom: 10px;
+}
+
+#pprojects a:hover {
+    background-color: grey;
+    color: white;
 }
 
 /* * Site classes */
