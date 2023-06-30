@@ -353,6 +353,13 @@ li {
     color: white;
 }
 
+/* Contact Page */
+
+#contact {
+    height: 500px;
+    width: 100%;
+}
+
 /* * Site classes */
 
 .active-page {
